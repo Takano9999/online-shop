@@ -24,8 +24,7 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 [Features](#features) •
 [Pages](#pages) •
 [Getting started](#getting-started) •
-[Contributing](#contributing) •
-[Contact Me](#contact-me)
+[Contributing](#contributing) 
   
 </p>
 <img src="/public/images/zishopBanner.png"/>
@@ -67,7 +66,7 @@ You can visit and explore in the ZiShop template at [ZiShop.vercel.app](https://
 
 2. Clone the project
   ```bash
-  git clone https://github.com/ZahraMirzaei/online-shop.git
+  git clone https://github.com/Takano9999/online-shop.git
   ```
 3. Install project dependencies
   ```bash
@@ -110,16 +109,3 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-
-## 💬Contact Me
-  <p>
-    <a href="https://linkedin.com/in/zahramirzaei"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:z.mirzaei2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  </p>
-  
-  <hr/>
-  
-  <p align="right">(<a href="#top">BACK TO TOP🔝</a>)</p>
